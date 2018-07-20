@@ -1,0 +1,85 @@
+#inner {
+    font-family: 'PT Sans', sans-serif;
+    margin-top: -0.5em;
+    min-width: 160px;
+    padding-bottom: 8px;
+}
+
+#paragraph {
+    font-size: 1.7em;
+    margin-bottom: -0em;
+    text-align: center;
+    white-space:nowrap;
+}
+
+#url {
+    color: blue;
+    font-family: 'PT Sans', sans-serif;
+    font-size: 1.4em;
+    text-align: center
+}
+
+#bottom {
+    font-family: 'PT Sans', sans-serif;
+    text-align: center;
+}
+
+#block {
+    background-color: transparent;
+    border-radius: 3px;
+    border: none;
+    color: red;
+    cursor: pointer;
+    display:inline-block;
+    font-family: 'PT Sans', sans-serif;
+    font-size: 1.2em;
+}
+
+#block:hover {
+    color: black;
+}
+
+#link {
+    background-color: transparent;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+    display:inline-block;
+    font-family: 'PT Sans', sans-serif;
+    font-size: 1.2em;
+    margin-left: 1em;
+}
+
+#settingsLink {
+    color: grey;
+    text-decoration: none;
+}
+
+#settingsLink:hover {
+    color: black;
+}
+
+#list {
+    font-size: 1.5em;
+}
+
+#settingsParagraph {
+    font-size: 2em;
+}
+
+#settingsDiv {
+    font-family: 'PT Sans', sans-serif;
+    margin-left: 1.5em;
+    margin-top: 1.5em;
+}
+
+.settingsButton {
+    background-color: Transparent;
+    border: none;
+    color: red;
+    cursor: pointer;
+    font-family: 'PT Sans', sans-serif;
+    font-size: 1em;
+    font-weight: bold;
+    margin-left: 1em;
+}
